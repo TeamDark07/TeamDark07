@@ -1,6 +1,4 @@
-Hi i am vyankatesh 
-U can chat me on Instagram 
-My ista id "vyan_u07"
+Hi i am vyankatesh
 
 <!---
 TeamDark07/TeamDark07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
